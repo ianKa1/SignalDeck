@@ -1,0 +1,366 @@
+{
+ "request": {
+  "action": "chat",
+  "message": "What if he says no?",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 4
+ },
+ "frames": [
+  {
+   "t": 4325,
+   "delta": "Then you'"
+  },
+  {
+   "t": 4461,
+   "delta": "ll have a"
+  },
+  {
+   "t": 4464,
+   "delta": " no, and a"
+  },
+  {
+   "t": 4469,
+   "delta": " no is"
+  },
+  {
+   "t": 4518,
+   "delta": " surv"
+  },
+  {
+   "t": 4569,
+   "delta": "ivable. Your Venus"
+  },
+  {
+   "t": 4620,
+   "delta": " is in Taurus, its"
+  },
+  {
+   "t": 4673,
+   "delta": " own sign, and that means what"
+  },
+  {
+   "t": 4719,
+   "delta": " you're"
+  },
+  {
+   "t": 4769,
+   "delta": " worth in"
+  },
+  {
+   "t": 4818,
+   "delta": " love doesn't depend on"
+  },
+  {
+   "t": 4869,
+   "delta": " his answer."
+  },
+  {
+   "t": 4986,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 4987,
+   "delta": "The real"
+  },
+  {
+   "t": 4993,
+   "delta": " dan"
+  },
+  {
+   "t": 5020,
+   "delta": "ger is what"
+  },
+  {
+   "t": 5064,
+   "delta": " com"
+  },
+  {
+   "t": 5119,
+   "delta": "es after. With"
+  },
+  {
+   "t": 5166,
+   "delta": " your Venus opposite"
+  },
+  {
+   "t": 5218,
+   "delta": " Pluto, you"
+  },
+  {
+   "t": 5264,
+   "delta": "'re"
+  },
+  {
+   "t": 5313,
+   "delta": " the"
+  },
+  {
+   "t": 5364,
+   "delta": " kind of person who keeps"
+  },
+  {
+   "t": 5413,
+   "delta": " hol"
+  },
+  {
+   "t": 5510,
+   "delta": "ding a"
+  },
+  {
+   "t": 5510,
+   "delta": " door"
+  },
+  {
+   "t": 5560,
+   "delta": " open"
+  },
+  {
+   "t": 5608,
+   "delta": " long"
+  },
+  {
+   "t": 5659,
+   "delta": " after it's closed,"
+  },
+  {
+   "t": 5710,
+   "delta": " reading his every"
+  },
+  {
+   "t": 5758,
+   "delta": " k"
+  },
+  {
+   "t": 5809,
+   "delta": "ind"
+  },
+  {
+   "t": 5859,
+   "delta": "ness as a ma"
+  },
+  {
+   "t": 5908,
+   "delta": "ybe and qu"
+  },
+  {
+   "t": 6036,
+   "delta": "ietly wa"
+  },
+  {
+   "t": 6036,
+   "delta": "iting."
+  },
+  {
+   "t": 6056,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 6056,
+   "delta": "So dec"
+  },
+  {
+   "t": 6107,
+   "delta": "ide now"
+  },
+  {
+   "t": 6155,
+   "delta": " that"
+  },
+  {
+   "t": 6203,
+   "delta": " a"
+  },
+  {
+   "t": 6253,
+   "delta": " cl"
+  },
+  {
+   "t": 6304,
+   "delta": "ear no means you"
+  },
+  {
+   "t": 6353,
+   "delta": "'ll stop wat"
+  },
+  {
+   "t": 6404,
+   "delta": "ching him for sign"
+  },
+  {
+   "t": 6455,
+   "delta": "s. Your Venus tr"
+  },
+  {
+   "t": 6557,
+   "delta": "ines"
+  },
+  {
+   "t": 6557,
+   "delta": " Saturn, and that g"
+  },
+  {
+   "t": 6606,
+   "delta": "ives you the"
+  },
+  {
+   "t": 6654,
+   "delta": " patience to grieve proper"
+  },
+  {
+   "t": 6703,
+   "delta": "ly and the"
+  },
+  {
+   "t": 6753,
+   "delta": " back"
+  },
+  {
+   "t": 6803,
+   "delta": "bone to step"
+  },
+  {
+   "t": 6853,
+   "delta": " back from him for"
+  },
+  {
+   "t": 6902,
+   "delta": " a while,"
+  },
+  {
+   "t": 6953,
+   "delta": " even if you st"
+  },
+  {
+   "t": 7083,
+   "delta": "ay friends."
+  },
+  {
+   "t": 7084,
+   "bubble": {
+    "index": 3
+   }
+  },
+  {
+   "t": 7084,
+   "delta": "I've wat"
+  },
+  {
+   "t": 7084,
+   "delta": "ched a great"
+  },
+  {
+   "t": 7106,
+   "delta": " many ro"
+  },
+  {
+   "t": 7155,
+   "delta": "ses b"
+  },
+  {
+   "t": 7201,
+   "delta": "loom again"
+  },
+  {
+   "t": 7251,
+   "delta": " after a h"
+  },
+  {
+   "t": 7318,
+   "delta": "ard fr"
+  },
+  {
+   "t": 7350,
+   "delta": "ost, but"
+  },
+  {
+   "t": 7401,
+   "delta": " only when no one k"
+  },
+  {
+   "t": 7454,
+   "delta": "ept pic"
+  },
+  {
+   "t": 7503,
+   "delta": "king at the fr"
+  },
+  {
+   "t": 7609,
+   "delta": "oz"
+  },
+  {
+   "t": 7609,
+   "delta": "en b"
+  },
+  {
+   "t": 7653,
+   "delta": "ud. If he says no, will"
+  },
+  {
+   "t": 7700,
+   "delta": " you let"
+  },
+  {
+   "t": 7748,
+   "delta": " it be"
+  },
+  {
+   "t": 7797,
+   "delta": " a no?"
+  },
+  {
+   "t": 11138,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "trine",
+      "bodyB": "Saturn"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 5030,
+   "slipsBefore": 1,
+   "to": 8333,
+   "ms": 3303
+  }
+ ],
+ "ghostScreenshot": "ghost-a3next.png",
+ "final": {
+  "slips": [
+   "Then you'll have a no, and a no is survivable. Your Venus is in Taurus, its own sign, and that means what you're worth in love doesn't depend on his answer.",
+   "The real danger is what comes after. With your Venus opposite Pluto, you're the kind of person who keeps holding a door open long after it's closed, reading his every kindness as a maybe and quietly waiting.",
+   "So decide now that a clear no means you'll stop watching him for signs. Your Venus trines Saturn, and that gives you the patience to grieve properly and the backbone to step back from him for a while, even if you stay friends.",
+   "I've watched a great many roses bloom again after a hard frost, but only when no one kept picking at the frozen bud. If he says no, will you let it be a no?"
+  ],
+  "chips": [
+   "♀Venus",
+   "Venus opposition Pluto",
+   "Venus trine Saturn"
+  ],
+  "mood": "candid",
+  "deeper": true,
+  "stopped": false
+ }
+}

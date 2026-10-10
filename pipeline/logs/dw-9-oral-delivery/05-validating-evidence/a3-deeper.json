@@ -1,0 +1,661 @@
+{
+ "request": {
+  "action": "deeper",
+  "message": "Go deeper — tell me more about that.",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 2
+ },
+ "frames": [
+  {
+   "t": 11731,
+   "delta": "Your Venus is"
+  },
+  {
+   "t": 11770,
+   "delta": " in Taurus, its"
+  },
+  {
+   "t": 11818,
+   "delta": " own sign, in"
+  },
+  {
+   "t": 11876,
+   "delta": " your"
+  },
+  {
+   "t": 11925,
+   "delta": " tenth house,"
+  },
+  {
+   "t": 11972,
+   "delta": " and it"
+  },
+  {
+   "t": 12077,
+   "delta": " sits opposite your P"
+  },
+  {
+   "t": 12079,
+   "delta": "luto in Scorpio"
+  },
+  {
+   "t": 12119,
+   "delta": " in your fourth."
+  },
+  {
+   "t": 12172,
+   "delta": " Your"
+  },
+  {
+   "t": 12219,
+   "delta": " aff"
+  },
+  {
+   "t": 12270,
+   "delta": "ection is steady and lo"
+  },
+  {
+   "t": 12320,
+   "delta": "yal, and people can see it"
+  },
+  {
+   "t": 12371,
+   "delta": ". But the opposition pul"
+  },
+  {
+   "t": 12421,
+   "delta": "ls the act"
+  },
+  {
+   "t": 12471,
+   "delta": "ual feeling down into the most"
+  },
+  {
+   "t": 12590,
+   "delta": " private part of you, where you gu"
+  },
+  {
+   "t": 12593,
+   "delta": "ard it and test"
+  },
+  {
+   "t": 12620,
+   "delta": " it and rarely let any"
+  },
+  {
+   "t": 12673,
+   "delta": "one see it."
+  },
+  {
+   "t": 12721,
+   "delta": " That's why it"
+  },
+  {
+   "t": 12771,
+   "delta": " grows heavy before"
+  },
+  {
+   "t": 12820,
+   "delta": " it"
+  },
+  {
+   "t": 12875,
+   "delta": " ever reaches him."
+  },
+  {
+   "t": 12920,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 12922,
+   "delta": "Your Moon in"
+  },
+  {
+   "t": 12972,
+   "delta": " Pisces in"
+  },
+  {
+   "t": 13112,
+   "delta": " the"
+  },
+  {
+   "t": 13112,
+   "delta": " eighth house r"
+  },
+  {
+   "t": 13122,
+   "delta": "ules your chart, and it tr"
+  },
+  {
+   "t": 13172,
+   "delta": "ines that"
+  },
+  {
+   "t": 13221,
+   "delta": " same Pluto,"
+  },
+  {
+   "t": 13275,
+   "delta": " so you read people"
+  },
+  {
+   "t": 13321,
+   "delta": "'s undercurrents very well"
+  },
+  {
+   "t": 13373,
+   "delta": ". The"
+  },
+  {
+   "t": 13421,
+   "delta": " c"
+  },
+  {
+   "t": 13471,
+   "delta": "ost is that you may"
+  },
+  {
+   "t": 13523,
+   "delta": " think"
+  },
+  {
+   "t": 13632,
+   "delta": " you already know his"
+  },
+  {
+   "t": 13633,
+   "delta": " answer from"
+  },
+  {
+   "t": 13670,
+   "delta": " his"
+  },
+  {
+   "t": 13719,
+   "delta": " mo"
+  },
+  {
+   "t": 13772,
+   "delta": "ods, his"
+  },
+  {
+   "t": 13821,
+   "delta": " glances and"
+  },
+  {
+   "t": 13878,
+   "delta": " his"
+  },
+  {
+   "t": 13920,
+   "delta": " silences. Reading him clos"
+  },
+  {
+   "t": 13972,
+   "delta": "ely is not the same as asking"
+  },
+  {
+   "t": 14021,
+   "delta": " him,"
+  },
+  {
+   "t": 14159,
+   "delta": " and your"
+  },
+  {
+   "t": 14161,
+   "delta": " ch"
+  },
+  {
+   "t": 14170,
+   "delta": "art mak"
+  },
+  {
+   "t": 14221,
+   "delta": "es it"
+  },
+  {
+   "t": 14270,
+   "delta": " easy to mistake one"
+  },
+  {
+   "t": 14320,
+   "delta": " for the other."
+  },
+  {
+   "t": 14322,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 14322,
+   "delta": "Then there"
+  },
+  {
+   "t": 14379,
+   "delta": "'s your Mars in A"
+  },
+  {
+   "t": 14421,
+   "delta": "ries on your Midheaven"
+  },
+  {
+   "t": 14486,
+   "delta": ", square"
+  },
+  {
+   "t": 14591,
+   "delta": " Neptune. When you"
+  },
+  {
+   "t": 14686,
+   "delta": " finally act, you act bold"
+  },
+  {
+   "t": 14686,
+   "delta": "ly. But Neptune bl"
+  },
+  {
+   "t": 14720,
+   "delta": "urs the edges"
+  },
+  {
+   "t": 14771,
+   "delta": ", so the confession can"
+  },
+  {
+   "t": 14831,
+   "delta": " come out as a joke, a"
+  },
+  {
+   "t": 14875,
+   "delta": " hint or a half"
+  },
+  {
+   "t": 14920,
+   "delta": "-s"
+  },
+  {
+   "t": 14970,
+   "delta": "entence he's"
+  },
+  {
+   "t": 15026,
+   "delta": " able to mis"
+  },
+  {
+   "t": 15072,
+   "delta": "read. That's why I"
+  },
+  {
+   "t": 15208,
+   "delta": " told"
+  },
+  {
+   "t": 15208,
+   "delta": " you to say one pl"
+  },
+  {
+   "t": 15220,
+   "delta": "ain sentence and then stop"
+  },
+  {
+   "t": 15270,
+   "delta": ","
+  },
+  {
+   "t": 15320,
+   "delta": " so he has"
+  },
+  {
+   "t": 15389,
+   "delta": " n"
+  },
+  {
+   "t": 15420,
+   "delta": "othing v"
+  },
+  {
+   "t": 15472,
+   "delta": "ague to h"
+  },
+  {
+   "t": 15520,
+   "delta": "ide behind or"
+  },
+  {
+   "t": 15569,
+   "delta": " to"
+  },
+  {
+   "t": 15621,
+   "delta": " misread."
+  },
+  {
+   "t": 15623,
+   "bubble": {
+    "index": 3
+   }
+  },
+  {
+   "t": 15623,
+   "delta": "Put together,"
+  },
+  {
+   "t": 15732,
+   "delta": " it"
+  },
+  {
+   "t": 15732,
+   "delta": " works"
+  },
+  {
+   "t": 15770,
+   "delta": " like this: Pluto ke"
+  },
+  {
+   "t": 15820,
+   "delta": "eps the"
+  },
+  {
+   "t": 15870,
+   "delta": " feeling hidden, the"
+  },
+  {
+   "t": 15921,
+   "delta": " Moon ke"
+  },
+  {
+   "t": 15970,
+   "delta": "eps reading him"
+  },
+  {
+   "t": 16028,
+   "delta": ", and Mars keeps"
+  },
+  {
+   "t": 16071,
+   "delta": " push"
+  },
+  {
+   "t": 16122,
+   "delta": "ing to get it"
+  },
+  {
+   "t": 16269,
+   "delta": " out."
+  },
+  {
+   "t": 16284,
+   "delta": " Left alone, that t"
+  },
+  {
+   "t": 16298,
+   "delta": "ends to end in a long"
+  },
+  {
+   "t": 16329,
+   "delta": " silence and"
+  },
+  {
+   "t": 16370,
+   "delta": " then a s"
+  },
+  {
+   "t": 16421,
+   "delta": "udden, bl"
+  },
+  {
+   "t": 16470,
+   "delta": "urry outburst at"
+  },
+  {
+   "t": 16531,
+   "delta": " a"
+  },
+  {
+   "t": 16570,
+   "delta": " bad moment. So cho"
+  },
+  {
+   "t": 16621,
+   "delta": "ose the moment yourself,"
+  },
+  {
+   "t": 16672,
+   "delta": " som"
+  },
+  {
+   "t": 16781,
+   "delta": "ewhere quiet and un"
+  },
+  {
+   "t": 16783,
+   "delta": "hurried, before the press"
+  },
+  {
+   "t": 16821,
+   "delta": "ure ch"
+  },
+  {
+   "t": 16891,
+   "delta": "ooses it for you."
+  },
+  {
+   "t": 16928,
+   "bubble": {
+    "index": 4
+   }
+  },
+  {
+   "t": 16932,
+   "delta": "Saturn rules your sevent"
+  },
+  {
+   "t": 16990,
+   "delta": "h house and sits across"
+  },
+  {
+   "t": 17021,
+   "delta": " from your r"
+  },
+  {
+   "t": 17074,
+   "delta": "ising sign, so you expect"
+  },
+  {
+   "t": 17120,
+   "delta": " love to be slow,"
+  },
+  {
+   "t": 17171,
+   "delta": " earned and a"
+  },
+  {
+   "t": 17305,
+   "delta": " little ser"
+  },
+  {
+   "t": 17305,
+   "delta": "ious. That"
+  },
+  {
+   "t": 17321,
+   "delta": " works"
+  },
+  {
+   "t": 17371,
+   "delta": " in both"
+  },
+  {
+   "t": 17421,
+   "delta": " directions. If he go"
+  },
+  {
+   "t": 17477,
+   "delta": "es quiet or"
+  },
+  {
+   "t": 17521,
+   "delta": " asks for a day"
+  },
+  {
+   "t": 17571,
+   "delta": " to think, it isn't a"
+  },
+  {
+   "t": 17621,
+   "delta": " no"
+  },
+  {
+   "t": 17670,
+   "delta": ", and you shouldn't"
+  },
+  {
+   "t": 17720,
+   "delta": " tre"
+  },
+  {
+   "t": 17830,
+   "delta": "at it like"
+  },
+  {
+   "t": 17830,
+   "delta": " a"
+  },
+  {
+   "t": 17872,
+   "delta": " tide"
+  },
+  {
+   "t": 17921,
+   "delta": " going"
+  },
+  {
+   "t": 17972,
+   "delta": " out."
+  },
+  {
+   "t": 17972,
+   "bubble": {
+    "index": 5
+   }
+  },
+  {
+   "t": 17972,
+   "delta": "If your Moon"
+  },
+  {
+   "t": 18024,
+   "delta": " is"
+  },
+  {
+   "t": 18070,
+   "delta": " right and"
+  },
+  {
+   "t": 18121,
+   "delta": " you already know how"
+  },
+  {
+   "t": 18171,
+   "delta": " he feels, what"
+  },
+  {
+   "t": 18221,
+   "delta": " have you been wa"
+  },
+  {
+   "t": 18353,
+   "delta": "iting for?"
+  },
+  {
+   "t": 24139,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "planet",
+      "body": "Pluto"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     },
+     {
+      "kind": "planet",
+      "body": "Moon"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Moon",
+      "type": "trine",
+      "bodyB": "Pluto"
+     },
+     {
+      "kind": "planet",
+      "body": "Mars"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 13015,
+   "slipsBefore": 1,
+   "to": 14083,
+   "ms": 1068
+  },
+  {
+   "from": 14414,
+   "slipsBefore": 2,
+   "to": 15473,
+   "ms": 1059
+  },
+  {
+   "from": 15720,
+   "slipsBefore": 3,
+   "to": 16762,
+   "ms": 1042
+  },
+  {
+   "from": 17024,
+   "slipsBefore": 4,
+   "to": 19239,
+   "ms": 2215
+  }
+ ],
+ "ghostScreenshot": "ghost-a3deeper.png",
+ "final": {
+  "slips": [
+   "Your Venus is in Taurus, its own sign, in your tenth house, and it sits opposite your Pluto in Scorpio in your fourth. Your affection is steady and loyal, and people can see it. But the opposition pulls the actual feeling down into the most private part of you, where you guard it and test it and rarely let anyone see it. That's why it grows heavy before it ever reaches him.",
+   "Your Moon in Pisces in the eighth house rules your chart, and it trines that same Pluto, so you read people's undercurrents very well. The cost is that you may think you already know his answer from his moods, his glances and his silences. Reading him closely is not the same as asking him, and your chart makes it easy to mistake one for the other.",
+   "Then there's your Mars in Aries on your Midheaven, square Neptune. When you finally act, you act boldly. But Neptune blurs the edges, so the confession can come out as a joke, a hint or a half-sentence he's able to misread. That's why I told you to say one plain sentence and then stop, so he has nothing vague to hide behind or to misread.",
+   "Put together, it works like this: Pluto keeps the feeling hidden, the Moon keeps reading him, and Mars keeps pushing to get it out. Left alone, that tends to end in a long silence and then a sudden, blurry outburst at a bad moment. So choose the moment yourself, somewhere quiet and unhurried, before the pressure chooses it for you.",
+   "Saturn rules your seventh house and sits across from your rising sign, so you expect love to be slow, earned and a little serious. That works in both directions. If he goes quiet or asks for a day to think, it isn't a no, and you shouldn't treat it like a tide going out.",
+   "If your Moon is right and you already know how he feels, what have you been waiting for?"
+  ],
+  "chips": [
+   "♀Venus",
+   "♇Pluto",
+   "Venus opposition Pluto",
+   "☽Moon",
+   "Moon trine Pluto",
+   "♂Mars"
+  ],
+  "mood": "candid",
+  "deeper": false,
+  "stopped": false
+ }
+}

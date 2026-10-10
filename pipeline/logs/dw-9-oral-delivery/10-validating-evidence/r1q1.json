@@ -1,0 +1,261 @@
+{
+ "request": {
+  "action": "chat",
+  "message": "Should I tell him how I feel?",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 0
+ },
+ "frames": [
+  {
+   "t": 7663,
+   "delta": "I'm your Ven"
+  },
+  {
+   "t": 7706,
+   "delta": "us in Taurus in the"
+  },
+  {
+   "t": 7766,
+   "delta": " tenth house, at home and"
+  },
+  {
+   "t": 7897,
+   "delta": " unh"
+  },
+  {
+   "t": 7897,
+   "delta": "urried, and I don"
+  },
+  {
+   "t": 7908,
+   "delta": "'t hand my he"
+  },
+  {
+   "t": 7960,
+   "delta": "art over until I know the ground"
+  },
+  {
+   "t": 8007,
+   "delta": " will hold, so I lean"
+  },
+  {
+   "t": 8058,
+   "delta": " toward waiting."
+  },
+  {
+   "t": 8106,
+   "delta": " Weigh that b"
+  },
+  {
+   "t": 8156,
+   "delta": "ias, because you're"
+  },
+  {
+   "t": 8207,
+   "delta": " here asking, and that t"
+  },
+  {
+   "t": 8257,
+   "delta": "ells me you've already"
+  },
+  {
+   "t": 8308,
+   "delta": " held this longer than is comf"
+  },
+  {
+   "t": 8424,
+   "delta": "ortable."
+  },
+  {
+   "t": 8424,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 8426,
+   "delta": "My opposition"
+  },
+  {
+   "t": 8426,
+   "delta": " to your Pluto in"
+  },
+  {
+   "t": 8457,
+   "delta": " Scorpio is the real"
+  },
+  {
+   "t": 8507,
+   "delta": " ris"
+  },
+  {
+   "t": 8556,
+   "delta": "k here,"
+  },
+  {
+   "t": 8608,
+   "delta": " because it makes you want to spe"
+  },
+  {
+   "t": 8659,
+   "delta": "ak only"
+  },
+  {
+   "t": 8709,
+   "delta": " once you can control how he'll"
+  },
+  {
+   "t": 8758,
+   "delta": " answer. If"
+  },
+  {
+   "t": 8808,
+   "delta": " you wait for"
+  },
+  {
+   "t": 8951,
+   "delta": " that guarantee, what you"
+  },
+  {
+   "t": 8951,
+   "delta": " feel for him tur"
+  },
+  {
+   "t": 8957,
+   "delta": "ns into qu"
+  },
+  {
+   "t": 9008,
+   "delta": "iet watching and manag"
+  },
+  {
+   "t": 9060,
+   "delta": "ing."
+  },
+  {
+   "t": 9060,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 9060,
+   "delta": "Your Mars"
+  },
+  {
+   "t": 9109,
+   "delta": " in Aries sits right on"
+  },
+  {
+   "t": 9160,
+   "delta": " your Midheaven, so"
+  },
+  {
+   "t": 9209,
+   "delta": " when you do say it, say"
+  },
+  {
+   "t": 9259,
+   "delta": " it plainly and in the open"
+  },
+  {
+   "t": 9308,
+   "delta": "."
+  },
+  {
+   "t": 9472,
+   "delta": " Give him one clear sentence"
+  },
+  {
+   "t": 9472,
+   "delta": ", not a hint he has to"
+  },
+  {
+   "t": 9511,
+   "delta": " decode."
+  },
+  {
+   "t": 9511,
+   "bubble": {
+    "index": 3
+   }
+  },
+  {
+   "t": 9511,
+   "delta": "What has he act"
+  },
+  {
+   "t": 9560,
+   "delta": "ually done, not said, that mak"
+  },
+  {
+   "t": 9610,
+   "delta": "es you believ"
+  },
+  {
+   "t": 9661,
+   "delta": "e the ground between you is"
+  },
+  {
+   "t": 9710,
+   "delta": " steady enough to hold it"
+  },
+  {
+   "t": 9789,
+   "delta": "?"
+  },
+  {
+   "t": 14739,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     },
+     {
+      "kind": "planet",
+      "body": "Pluto"
+     },
+     {
+      "kind": "planet",
+      "body": "Mars"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 8442,
+   "slipsBefore": 1,
+   "to": 11757,
+   "ms": 3315
+  }
+ ],
+ "ghostScreenshot": "ghost-r1q1.png",
+ "final": {
+  "slips": [
+   "I'm your Venus in Taurus in the tenth house, at home and unhurried, and I don't hand my heart over until I know the ground will hold, so I lean toward waiting. Weigh that bias, because you're here asking, and that tells me you've already held this longer than is comfortable.",
+   "My opposition to your Pluto in Scorpio is the real risk here, because it makes you want to speak only once you can control how he'll answer. If you wait for that guarantee, what you feel for him turns into quiet watching and managing.",
+   "Your Mars in Aries sits right on your Midheaven, so when you do say it, say it plainly and in the open. Give him one clear sentence, not a hint he has to decode.",
+   "What has he actually done, not said, that makes you believe the ground between you is steady enough to hold it?"
+  ],
+  "chips": [
+   "♀Venus",
+   "Venus opposition Pluto",
+   "♇Pluto",
+   "♂Mars"
+  ],
+  "mood": "candid",
+  "deeper": true,
+  "stopped": false
+ }
+}

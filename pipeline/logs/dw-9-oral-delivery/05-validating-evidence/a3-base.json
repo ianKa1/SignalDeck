@@ -1,0 +1,221 @@
+{
+ "request": {
+  "action": "chat",
+  "message": "Should I tell him how I feel?",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 0
+ },
+ "frames": [
+  {
+   "t": 8742,
+   "delta": "Yes, I think you should,"
+  },
+  {
+   "t": 8784,
+   "delta": " and sooner than fe"
+  },
+  {
+   "t": 8835,
+   "delta": "els comfortable. Your"
+  },
+  {
+   "t": 8964,
+   "delta": " Venus in Taurus"
+  },
+  {
+   "t": 8965,
+   "delta": " opposite Pluto t"
+  },
+  {
+   "t": 8985,
+   "delta": "ends to keep a feeling"
+  },
+  {
+   "t": 9039,
+   "delta": " private for"
+  },
+  {
+   "t": 9086,
+   "delta": " so long that when"
+  },
+  {
+   "t": 9135,
+   "delta": " it finally comes out, it"
+  },
+  {
+   "t": 9186,
+   "delta": "'s heavy, and he g"
+  },
+  {
+   "t": 9235,
+   "delta": "ets handed all of it at once"
+  },
+  {
+   "t": 9286,
+   "delta": "."
+  },
+  {
+   "t": 9286,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 9286,
+   "delta": "You"
+  },
+  {
+   "t": 9337,
+   "delta": " also have Mars in A"
+  },
+  {
+   "t": 9390,
+   "delta": "ries, str"
+  },
+  {
+   "t": 9487,
+   "delta": "ong in its own sign and"
+  },
+  {
+   "t": 9487,
+   "delta": " conjunct your"
+  },
+  {
+   "t": 9537,
+   "delta": " Midheaven, so pl"
+  },
+  {
+   "t": 9587,
+   "delta": "ain speaking su"
+  },
+  {
+   "t": 9636,
+   "delta": "its you far"
+  },
+  {
+   "t": 9686,
+   "delta": " better than h"
+  },
+  {
+   "t": 9736,
+   "delta": "inting. Say one true s"
+  },
+  {
+   "t": 9787,
+   "delta": "entence, something like \"I like"
+  },
+  {
+   "t": 9837,
+   "delta": " you as"
+  },
+  {
+   "t": 9890,
+   "delta": " more than a friend,\" and then"
+  },
+  {
+   "t": 10011,
+   "delta": " stop and let him answer."
+  },
+  {
+   "t": 10011,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 10011,
+   "delta": "I've watched l"
+  },
+  {
+   "t": 10036,
+   "delta": "overs wait a"
+  },
+  {
+   "t": 10088,
+   "delta": " very long time for a sign from"
+  },
+  {
+   "t": 10138,
+   "delta": " across"
+  },
+  {
+   "t": 10192,
+   "delta": " the table, and the"
+  },
+  {
+   "t": 10237,
+   "delta": " sign usually comes only"
+  },
+  {
+   "t": 10287,
+   "delta": " after one"
+  },
+  {
+   "t": 10337,
+   "delta": " of them spe"
+  },
+  {
+   "t": 10391,
+   "delta": "aks. Which are"
+  },
+  {
+   "t": 10437,
+   "delta": " you really afraid of: that"
+  },
+  {
+   "t": 10536,
+   "delta": " he doesn't feel the"
+  },
+  {
+   "t": 10538,
+   "delta": " same, or that he does?"
+  },
+  {
+   "t": 15632,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     },
+     {
+      "kind": "planet",
+      "body": "Mars"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 9292,
+   "slipsBefore": 1,
+   "to": 11501,
+   "ms": 2209
+  }
+ ],
+ "ghostScreenshot": "ghost-a3base.png",
+ "final": {
+  "slips": [
+   "Yes, I think you should, and sooner than feels comfortable. Your Venus in Taurus opposite Pluto tends to keep a feeling private for so long that when it finally comes out, it's heavy, and he gets handed all of it at once.",
+   "You also have Mars in Aries, strong in its own sign and conjunct your Midheaven, so plain speaking suits you far better than hinting. Say one true sentence, something like \"I like you as more than a friend,\" and then stop and let him answer.",
+   "I've watched lovers wait a very long time for a sign from across the table, and the sign usually comes only after one of them speaks. Which are you really afraid of: that he doesn't feel the same, or that he does?"
+  ],
+  "chips": [
+   "♀Venus",
+   "Venus opposition Pluto",
+   "♂Mars"
+  ],
+  "mood": "candid",
+  "deeper": true,
+  "stopped": false
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "criteria": {
+  "L1": true,
+  "L2": false,
+  "L3": false,
+  "L4": true,
+  "L5": false,
+  "L6": false
+ },
+ "totals": {
+  "bubbles": 220,
+  "medianWords": 43.0,
+  "shortShare": 0.227,
+  "longShare": 0.605,
+  "longConversations": 6,
+  "pills": 161,
+  "failedTags": 0,
+  "failedShare": 0.0,
+  "baselineExists": true
+ },
+ "conversations": [
+  {
+   "persona": "jupiter",
+   "turns": 10,
+   "completed": 10,
+   "errors": 0,
+   "bubbles": 36,
+   "medianWords": 47.5,
+   "longBubbles": 25,
+   "pills": {
+    "placement": 14,
+    "aspect": 13,
+    "transit": 3,
+    "dice": 0,
+    "pills": 30,
+    "failed": 0,
+    "failedReasons": {}
+   },
+   "questionEndings": {
+    "replies": 10,
+    "question": 8,
+    "share": 0.8
+   },
+   "selfIntro": [
+    "I'm your Jupiter",
+    "I'm your Jupiter",
+    "I'm your Jupiter"
+   ],
+   "transitWaived": false,
+   "card": {
+    "present": false,
+    "ok": false
+   }
+  },
+  {
+   "persona": "mars",
+   "turns": 10,
+   "completed": 10,
+   "errors": 0,
+   "bubbles": 32,
+   "medianWords": 40.0,
+   "longBubbles": 15,
+   "pills": {
+    "placement": 7,
+    "aspect": 19,
+    "transit": 0,
+    "dice": 0,
+    "pills": 26,
+    "failed": 0,
+    "failedReasons": {}
+   },
+   "questionEndings": {
+    "replies": 10,
+    "question": 10,
+    "share": 1.0
+   },
+   "selfIntro": [
+    "I'm your Mars",
+    "I'm your Mars"
+   ],
+   "transitWaived": false,
+   "card": {
+    "present": false,
+    "ok": false
+   }
+  },
+  {
+   "persona": "mercury",
+   "turns": 10,
+   "completed": 10,
+   "errors": 0,
+   "bubbles": 39,
+   "medianWords": 42,
+   "longBubbles": 22,
+   "pills": {
+    "placement": 7,
+    "aspect": 15,
+    "transit": 0,
+    "dice": 0,
+    "pills": 22,
+    "failed": 0,
+    "failedReasons": {}
+   },
+   "questionEndings": {
+    "replies": 10,
+    "question": 10,
+    "share": 1.0
+   },
+   "selfIntro": [
+    "I'm your Mercury"
+   ],
+   "transitWaived": false,
+   "card": {
+    "present": false,
+    "ok": false
+   }
+  },
+  {
+   "persona": "moon",
+   "turns": 10,
+   "completed": 10,
+   "errors": 0,
+   "bubbles": 38,
+   "medianWords": 48.5,
+   "longBubbles": 27,
+   "pills": {
+    "placement": 13,
+    "aspect": 8,
+    "transit": 9,
+    "dice": 0,
+    "pills": 30,
+    "failed": 0,
+    "failedReasons": {}
+   },
+   "questionEndings": {
+    "replies": 10,
+    "question": 9,
+    "share": 0.9
+   },
+   "selfIntro": [
+    "I'm your Moon",
+    "I'm your Moon",
+    "I'm your Moon",
+    "I'm your Moon",
+    "I'm your Moon"
+   ],
+   "transitWaived": false,
+   "card": {
+    "present": false,
+    "ok": false
+   }
+  },
+  {
+   "persona": "saturn",
+   "turns": 10,
+   "completed": 10,
+   "errors": 0,
+   "bubbles": 36,
+   "medianWords": 48.0,
+   "longBubbles": 26,
+   "pills": {
+    "placement": 14,
+    "aspect": 2,
+    "transit": 7,
+    "dice": 0,
+    "pills": 23,
+    "failed": 0,
+    "failedReasons": {}
+   },
+   "questionEndings": {
+    "replies": 10,
+    "question": 9,
+    "share": 0.9
+   },
+   "selfIntro": [
+    "I'm your Saturn",
+    "I'm your Saturn",
+    "I'm your Saturn",
+    "I'm your Saturn",
+    "I'm your Saturn",
+    "I'm your Saturn"
+   ],
+   "transitWaived": false,
+   "card": {
+    "present": false,
+    "ok": false
+   }
+  },
+  {
+   "persona": "venus",
+   "turns": 10,
+   "completed": 10,
+   "errors": 0,
+   "bubbles": 39,
+   "medianWords": 40,
+   "longBubbles": 18,
+   "pills": {
+    "placement": 17,
+    "aspect": 13,
+    "transit": 0,
+    "dice": 0,
+    "pills": 30,
+    "failed": 0,
+    "failedReasons": {}
+   },
+   "questionEndings": {
+    "replies": 10,
+    "question": 10,
+    "share": 1.0
+   },
+   "selfIntro": [
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus",
+    "I'm your Venus"
+   ],
+   "transitWaived": false,
+   "card": {
+    "present": false,
+    "ok": false
+   }
+  }
+ ]
+}

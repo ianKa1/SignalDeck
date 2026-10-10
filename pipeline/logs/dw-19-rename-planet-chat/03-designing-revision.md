@@ -1,0 +1,2 @@
+# 03 — designing (revision, 2026-09-29)
+- Round-1 FAIL B1: dw-* slug citations and the epic path were not allowlisted. Added D11 (history citations stay; regex dw-\d+-…divination…, epics/divination-web.md, one CLAUDE.md parenthetical; display name "PLANET CHAT WEB EPIC"). N-a pkey constraints named in D6/N5; N-b docs/features clarified; N-d .env* note in D3; N-e one shared rename-allowlist.json; N-f kebab-case stated. N-c (SQLite move race) goes to plan risks.

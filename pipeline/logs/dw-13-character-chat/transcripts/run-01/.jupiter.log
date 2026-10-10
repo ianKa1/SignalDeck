@@ -1,0 +1,24 @@
+/Users/kaimao/miniconda3/envs/astrology/lib/python3.12/site-packages/fastapi/testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+  from starlette.testclient import TestClient as TestClient  # noqa
+2026-09-29 12:13:23,231 INFO astrace.jobs: job divination_voice: running divination_voice
+2026-09-29 12:14:20,873 INFO app.divination.voice: divination voice: jupiter/en attempt 1 rejected: the card was 3,895 characters long, and it must be 2,800 to 3,800
+2026-09-29 12:15:17,282 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 1: 16.7s, 5 bubbles
+2026-09-29 12:15:34,056 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 2: 14.8s, 4 bubbles
+2026-09-29 12:15:50,308 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 3: 11.4s, 6 bubbles
+2026-09-29 12:16:14,965 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 4: 20.5s, 6 bubbles
+2026-09-29 12:16:31,036 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 5: 13.1s, 4 bubbles
+2026-09-29 12:16:46,527 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 6: 12.1s, 4 bubbles
+2026-09-29 12:17:01,984 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 7: 13.9s, 5 bubbles
+2026-09-29 12:17:21,757 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 8: 12.6s, 4 bubbles
+2026-09-29 12:17:37,674 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 9: 12.2s, 5 bubbles
+2026-09-29 12:17:53,135 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 10: 11.5s, 4 bubbles

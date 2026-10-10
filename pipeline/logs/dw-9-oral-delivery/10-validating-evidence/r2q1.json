@@ -1,0 +1,277 @@
+{
+ "request": {
+  "action": "chat",
+  "message": "Should I tell him how I feel?",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 0
+ },
+ "frames": [
+  {
+   "t": 9208,
+   "delta": "I"
+  },
+  {
+   "t": 9253,
+   "delta": "'m your Venus in"
+  },
+  {
+   "t": 9303,
+   "delta": " Taurus in the tenth"
+  },
+  {
+   "t": 9357,
+   "delta": " house, and I lean tow"
+  },
+  {
+   "t": 9402,
+   "delta": "ards yes, because I tr"
+  },
+  {
+   "t": 9455,
+   "delta": "ust feelings that are said out"
+  },
+  {
+   "t": 9505,
+   "delta": " loud more"
+  },
+  {
+   "t": 9603,
+   "delta": " than ones k"
+  },
+  {
+   "t": 9603,
+   "delta": "ept qu"
+  },
+  {
+   "t": 9653,
+   "delta": "iet. Weigh that"
+  },
+  {
+   "t": 9703,
+   "delta": ","
+  },
+  {
+   "t": 9754,
+   "delta": " since I would"
+  },
+  {
+   "t": 9804,
+   "delta": " always"
+  },
+  {
+   "t": 9854,
+   "delta": " rather you be known than left wa"
+  },
+  {
+   "t": 9905,
+   "delta": "iting."
+  },
+  {
+   "t": 9906,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 9909,
+   "delta": "Your Ven"
+  },
+  {
+   "t": 9965,
+   "delta": "us opposite Pluto"
+  },
+  {
+   "t": 10007,
+   "delta": " is what makes this hard,"
+  },
+  {
+   "t": 10126,
+   "delta": " because it wants to be"
+  },
+  {
+   "t": 10127,
+   "delta": " sure of his"
+  },
+  {
+   "t": 10154,
+   "delta": " answer before you ris"
+  },
+  {
+   "t": 10205,
+   "delta": "k anything. That is control pass"
+  },
+  {
+   "t": 10254,
+   "delta": "ing it"
+  },
+  {
+   "t": 10305,
+   "delta": "self off as caution, and it"
+  },
+  {
+   "t": 10354,
+   "delta": " can keep you going round"
+  },
+  {
+   "t": 10405,
+   "delta": " in circles for months."
+  },
+  {
+   "t": 10455,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 10456,
+   "delta": "Your Mars in Aries"
+  },
+  {
+   "t": 10504,
+   "delta": " sits on your Midhea"
+  },
+  {
+   "t": 10555,
+   "delta": "ven, so when you fin"
+  },
+  {
+   "t": 10649,
+   "delta": "ally speak, you tend to"
+  },
+  {
+   "t": 10657,
+   "delta": " say ever"
+  },
+  {
+   "t": 10706,
+   "delta": "ything pl"
+  },
+  {
+   "t": 10755,
+   "delta": "ainly and all at once."
+  },
+  {
+   "t": 10805,
+   "delta": " Say one true, specific thing"
+  },
+  {
+   "t": 10855,
+   "delta": ", and then give him room"
+  },
+  {
+   "t": 10906,
+   "delta": " to answer at his own pace"
+  },
+  {
+   "t": 10958,
+   "delta": "."
+  },
+  {
+   "t": 10958,
+   "bubble": {
+    "index": 3
+   }
+  },
+  {
+   "t": 10958,
+   "delta": "Your Moon in"
+  },
+  {
+   "t": 11006,
+   "delta": " Pisces in the eigh"
+  },
+  {
+   "t": 11056,
+   "delta": "th house will f"
+  },
+  {
+   "t": 11176,
+   "delta": "ill his silences"
+  },
+  {
+   "t": 11176,
+   "delta": " with meanings he"
+  },
+  {
+   "t": 11207,
+   "delta": " may"
+  },
+  {
+   "t": 11256,
+   "delta": " never have put there. So t"
+  },
+  {
+   "t": 11306,
+   "delta": "ell me, what has he actually"
+  },
+  {
+   "t": 11357,
+   "delta": " done, not just"
+  },
+  {
+   "t": 11407,
+   "delta": " said, that makes you think he"
+  },
+  {
+   "t": 11456,
+   "delta": "'"
+  },
+  {
+   "t": 11506,
+   "delta": "d want to hear it?"
+  },
+  {
+   "t": 15715,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     },
+     {
+      "kind": "planet",
+      "body": "Mars"
+     },
+     {
+      "kind": "planet",
+      "body": "Moon"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 9956,
+   "slipsBefore": 1,
+   "to": 13266,
+   "ms": 3310
+  }
+ ],
+ "ghostScreenshot": "ghost-r2q1.png",
+ "final": {
+  "slips": [
+   "I'm your Venus in Taurus in the tenth house, and I lean towards yes, because I trust feelings that are said out loud more than ones kept quiet. Weigh that, since I would always rather you be known than left waiting.",
+   "Your Venus opposite Pluto is what makes this hard, because it wants to be sure of his answer before you risk anything. That is control passing itself off as caution, and it can keep you going round in circles for months.",
+   "Your Mars in Aries sits on your Midheaven, so when you finally speak, you tend to say everything plainly and all at once. Say one true, specific thing, and then give him room to answer at his own pace.",
+   "Your Moon in Pisces in the eighth house will fill his silences with meanings he may never have put there. So tell me, what has he actually done, not just said, that makes you think he'd want to hear it?"
+  ],
+  "chips": [
+   "♀Venus",
+   "Venus opposition Pluto",
+   "♂Mars",
+   "☽Moon"
+  ],
+  "mood": "candid",
+  "deeper": true,
+  "stopped": false
+ }
+}

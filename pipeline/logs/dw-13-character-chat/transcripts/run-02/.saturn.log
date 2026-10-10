@@ -1,0 +1,16 @@
+/Users/kaimao/miniconda3/envs/astrology/lib/python3.12/site-packages/fastapi/testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+  from starlette.testclient import TestClient as TestClient  # noqa
+2026-09-29 12:21:43,879 INFO astrace.jobs: job divination_voice: running divination_voice
+[saturn] turn 1: 13.7s, 3 bubbles
+[saturn] turn 2: 13.3s, 4 bubbles
+2026-09-29 12:23:14,520 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[saturn] turn 3: 13.2s, 4 bubbles
+2026-09-29 12:23:28,730 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[saturn] turn 4: 13.1s, 4 bubbles
+[saturn] turn 5: 10.0s, 4 bubbles
+2026-09-29 12:24:00,834 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[saturn] turn 6: 12.3s, 4 bubbles
+[saturn] turn 7: 8.9s, 4 bubbles
+[saturn] turn 8: 9.4s, 4 bubbles
+[saturn] turn 9: 7.8s, 3 bubbles
+[saturn] turn 10: 7.7s, 4 bubbles

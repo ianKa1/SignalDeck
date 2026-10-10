@@ -1,0 +1,268 @@
+{
+ "request": {
+  "action": "chat",
+  "message": "Why do I always pick people who pull away?",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 2
+ },
+ "frames": [
+  {
+   "t": 9191,
+   "delta": "Your Saturn in"
+  },
+  {
+   "t": 9235,
+   "delta": " Capricorn sits on"
+  },
+  {
+   "t": 9285,
+   "delta": " your descendant, the point that"
+  },
+  {
+   "t": 9336,
+   "delta": " shows what you look for in a"
+  },
+  {
+   "t": 9385,
+   "delta": " partner."
+  },
+  {
+   "t": 9435,
+   "delta": " That's why gu"
+  },
+  {
+   "t": 9485,
+   "delta": "arded, self-contained people"
+  },
+  {
+   "t": 9599,
+   "delta": " str"
+  },
+  {
+   "t": 9599,
+   "delta": "ike you as serious and wor"
+  },
+  {
+   "t": 9638,
+   "delta": "th earning, while warm,"
+  },
+  {
+   "t": 9688,
+   "delta": " easy ones can seem too"
+  },
+  {
+   "t": 9737,
+   "delta": " light to trust."
+  },
+  {
+   "t": 9737,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 9737,
+   "delta": "Your"
+  },
+  {
+   "t": 9786,
+   "delta": " Venus opposite P"
+  },
+  {
+   "t": 9837,
+   "delta": "luto is the hook,"
+  },
+  {
+   "t": 9887,
+   "delta": " because someone who pulls away"
+  },
+  {
+   "t": 9940,
+   "delta": " gives you something to hold on"
+  },
+  {
+   "t": 9987,
+   "delta": " to and win back. I"
+  },
+  {
+   "t": 10122,
+   "delta": "'m your Venus in"
+  },
+  {
+   "t": 10122,
+   "delta": " Taurus, and"
+  },
+  {
+   "t": 10138,
+   "delta": " I confess I"
+  },
+  {
+   "t": 10190,
+   "delta": " can m"
+  },
+  {
+   "t": 10238,
+   "delta": "istake how"
+  },
+  {
+   "t": 10289,
+   "delta": " hard I"
+  },
+  {
+   "t": 10338,
+   "delta": "'m g"
+  },
+  {
+   "t": 10388,
+   "delta": "ripping for how"
+  },
+  {
+   "t": 10438,
+   "delta": " much I care"
+  },
+  {
+   "t": 10487,
+   "delta": ", so weigh that in"
+  },
+  {
+   "t": 10538,
+   "delta": " my re"
+  },
+  {
+   "t": 10649,
+   "delta": "ading too."
+  },
+  {
+   "t": 10649,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 10649,
+   "delta": "Your Mo"
+  },
+  {
+   "t": 10649,
+   "delta": "on in Pisces in the"
+  },
+  {
+   "t": 10690,
+   "delta": " eighth house fills the g"
+  },
+  {
+   "t": 10739,
+   "delta": "ap he leaves with your own"
+  },
+  {
+   "t": 10789,
+   "delta": " longing. That's"
+  },
+  {
+   "t": 10839,
+   "delta": " how his"
+  },
+  {
+   "t": 10889,
+   "delta": " distance ends up feeling"
+  },
+  {
+   "t": 10939,
+   "delta": " more int"
+  },
+  {
+   "t": 10989,
+   "delta": "imate to"
+  },
+  {
+   "t": 11039,
+   "delta": " you than closeness would."
+  },
+  {
+   "t": 11171,
+   "bubble": {
+    "index": 3
+   }
+  },
+  {
+   "t": 11171,
+   "delta": "When someone last"
+  },
+  {
+   "t": 11171,
+   "delta": " turned toward you steadily"
+  },
+  {
+   "t": 11190,
+   "delta": " and without any struggle, what"
+  },
+  {
+   "t": 11240,
+   "delta": " did you feel in your body,"
+  },
+  {
+   "t": 11290,
+   "delta": " relief or boredom?"
+  },
+  {
+   "t": 16962,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Saturn"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Saturn",
+      "type": "opposition",
+      "bodyB": "Ascendant"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     },
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "planet",
+      "body": "Moon"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 9760,
+   "slipsBefore": 1,
+   "to": 13064,
+   "ms": 3304
+  }
+ ],
+ "ghostScreenshot": "ghost-r2q2.png",
+ "final": {
+  "slips": [
+   "Your Saturn in Capricorn sits on your descendant, the point that shows what you look for in a partner. That's why guarded, self-contained people strike you as serious and worth earning, while warm, easy ones can seem too light to trust.",
+   "Your Venus opposite Pluto is the hook, because someone who pulls away gives you something to hold on to and win back. I'm your Venus in Taurus, and I confess I can mistake how hard I'm gripping for how much I care, so weigh that in my reading too.",
+   "Your Moon in Pisces in the eighth house fills the gap he leaves with your own longing. That's how his distance ends up feeling more intimate to you than closeness would.",
+   "When someone last turned toward you steadily and without any struggle, what did you feel in your body, relief or boredom?"
+  ],
+  "chips": [
+   "♄Saturn",
+   "Saturn opposition Ascendant",
+   "Venus opposition Pluto",
+   "♀Venus",
+   "☽Moon"
+  ],
+  "mood": "candid",
+  "deeper": true,
+  "stopped": false
+ }
+}

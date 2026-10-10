@@ -1,0 +1,17 @@
+# 02 spec-review (round 1) — fresh-context reviewer
+
+**Verdict: PASS** (no blocking defects; four non-blocking notes, which the planner or implementer can fold in without another review round).
+
+## Checklist
+
+1. **Serves the notes, right-sized.** Yes. Every element of the QUEUE note is covered: refs light planets and aspects through `planetFamily`/`aspectKey`, the rest dims, the light fades on the next turn, a chip press re-lights, glow is SVG/CSS with no SkSL, and the server is untouched. The echo tier is `planetFamily` as the note names it, not new scope. "Fades as the next turn arrives" is settled as a decided default: the clear happens at send time. The non-goals shut out hover, wheel clicks, persistence and scroll-into-view.
+2. **Checkable criteria.** T1–T6 and W1–W6 are concrete vitest assertions. I checked the fixture facts against `server/tests/fixtures/beijing-1990-known-time.json`: Venus's family is exactly the 5 aspects and 5 partners listed, `Saturn|opposition|Ascendant` and `Mars|square|Jupiter` exist, `Venus|square|Mars` does not, and the time-unknown chart has no Ascendant aspect. A1–A6 name computed-style values and timings. A1's "unnamed planet" always has a witness: the Sun has no aspects in this chart.
+3. **Architecture Contract / epic.** It is clean. The mapping is equality and set membership only, with no longitude operators, so it passes G4's `COMPUTATION_RE`/`LONGITUDE_ARITH_RE`. The core imports go through barrels, with `@astrace/core/chart` imported as types only, so G5's single value-importer holds. Colours are `var(--…)` only and there is no new token or i18n key. The new edge `chat/ → chart/wheel-activation.ts` is allowed by the epic's dependency rules, and the epic's Target modules line already names this feature for `chart/`. Every file:line in the Reuse table checks out on `feature/divination_web` (aspect-set.ts:17/26, ChartWheel.tsx:173/180/202/220/239, useChat.ts:56/86-93, ChatPanel.tsx:71/136, useChart.ts:32/37).
+4. **Non-goals and defaults.** Both are stated. There are no open questions. The shared-file footprint with dw-5/dw-6 is stated explicitly.
+
+## Non-blocking notes
+
+- **G2 baseline is fragile in a parallel wave.** `git diff --stat 2f45dfb` will list dw-5's or dw-6's `server/` paths if the working branch is ever merged into `feature/dw-4-wheel-activation` for conflict resolution (PIPELINE.md Parallel waves, rule 6). Fix: use `git diff --stat feature/divination_web...HEAD` (three-dot, from the merge base), which lists only dw-4's own changes in every case.
+- **Contract wording conflict in ChartWheel.** The contract says "Absent or null → markup identical to dw-1", but it also adds `data-planet-node` to hub nodes, presumably unconditionally. T5 only asserts that no `data-active`/`data-lit`/`data-echo` appears, so the tests are fine. Fix: reword the contract to "identical to dw-1 apart from `data-planet-node`" (or emit that attribute only when active).
+- **wheel.css rationale is slightly off.** It says "the keyframes are `from`-only". `wheel-draw` also has `to { stroke-dashoffset: 0 }`. The change from `both` to `backwards` still looks identical, because 0 is the resting value. Fix: correct the sentence so the implementer does not "fix" the keyframe.
+- **Chip id `"<entryIndex>:<refIndex>"` can go stale.** If dw-6 later clears or replaces the transcript (end session), a still-pressed id could mark a chip in a new transcript as pressed. Suggest that the plan clears the activation whenever the transcript shrinks. This is not needed for dw-4's own criteria.

@@ -1,0 +1,317 @@
+{
+ "request": {
+  "action": "chat",
+  "message": "Is this friendship worth saving?",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 4
+ },
+ "frames": [
+  {
+   "t": 8356,
+   "delta": "Your house"
+  },
+  {
+   "t": 8357,
+   "delta": " of friends op"
+  },
+  {
+   "t": 8381,
+   "delta": "ens in Taurus, and"
+  },
+  {
+   "t": 8432,
+   "delta": " I"
+  },
+  {
+   "t": 8480,
+   "delta": " rule it:"
+  },
+  {
+   "t": 8530,
+   "delta": " your"
+  },
+  {
+   "t": 8581,
+   "delta": " Venus in Taurus"
+  },
+  {
+   "t": 8631,
+   "delta": " in the tenth house. So"
+  },
+  {
+   "t": 8687,
+   "delta": " fri"
+  },
+  {
+   "t": 8731,
+   "delta": "endships are my territory, and"
+  },
+  {
+   "t": 8782,
+   "delta": " I judge them by whether they"
+  },
+  {
+   "t": 8874,
+   "delta": " have held weight over the"
+  },
+  {
+   "t": 8881,
+   "delta": " years,"
+  },
+  {
+   "t": 8932,
+   "delta": " which"
+  },
+  {
+   "t": 8983,
+   "delta": " g"
+  },
+  {
+   "t": 9032,
+   "delta": "ives me a bias toward ke"
+  },
+  {
+   "t": 9081,
+   "delta": "eping old"
+  },
+  {
+   "t": 9131,
+   "delta": " things"
+  },
+  {
+   "t": 9180,
+   "delta": "."
+  },
+  {
+   "t": 9230,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 9231,
+   "delta": "Your Sun and"
+  },
+  {
+   "t": 9280,
+   "delta": " Mercury in Gemini"
+  },
+  {
+   "t": 9402,
+   "delta": " sit in that house of friends"
+  },
+  {
+   "t": 9402,
+   "delta": ", because"
+  },
+  {
+   "t": 9431,
+   "delta": " for"
+  },
+  {
+   "t": 9481,
+   "delta": " you a"
+  },
+  {
+   "t": 9532,
+   "delta": " friendship lives on talk"
+  },
+  {
+   "t": 9582,
+   "delta": ". When the tal"
+  },
+  {
+   "t": 9634,
+   "delta": "k"
+  },
+  {
+   "t": 9681,
+   "delta": " th"
+  },
+  {
+   "t": 9731,
+   "delta": "ins, the"
+  },
+  {
+   "t": 9781,
+   "delta": " whole b"
+  },
+  {
+   "t": 9831,
+   "delta": "ond feels like"
+  },
+  {
+   "t": 9924,
+   "delta": " it's f"
+  },
+  {
+   "t": 9931,
+   "delta": "ading, even when"
+  },
+  {
+   "t": 9981,
+   "delta": " it has"
+  },
+  {
+   "t": 10031,
+   "delta": " only gone quiet."
+  },
+  {
+   "t": 10082,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 10082,
+   "delta": "Your Venus oppos"
+  },
+  {
+   "t": 10133,
+   "delta": "ite Pluto can tur"
+  },
+  {
+   "t": 10181,
+   "delta": "n sa"
+  },
+  {
+   "t": 10232,
+   "delta": "ving into gripping, because let"
+  },
+  {
+   "t": 10281,
+   "delta": "ting a"
+  },
+  {
+   "t": 10331,
+   "delta": " b"
+  },
+  {
+   "t": 10451,
+   "delta": "ond change feels to"
+  },
+  {
+   "t": 10451,
+   "delta": " me like losing it. Here"
+  },
+  {
+   "t": 10482,
+   "delta": " saving it may mean letting"
+  },
+  {
+   "t": 10533,
+   "delta": " it become smaller or different"
+  },
+  {
+   "t": 10582,
+   "delta": ", and not"
+  },
+  {
+   "t": 10635,
+   "delta": " trying to get back"
+  },
+  {
+   "t": 10683,
+   "delta": " exactly what it was."
+  },
+  {
+   "t": 10733,
+   "bubble": {
+    "index": 3
+   }
+  },
+  {
+   "t": 10733,
+   "delta": "What"
+  },
+  {
+   "t": 10782,
+   "delta": " happ"
+  },
+  {
+   "t": 10831,
+   "delta": "ened between"
+  },
+  {
+   "t": 10974,
+   "delta": " you:"
+  },
+  {
+   "t": 10974,
+   "delta": " did"
+  },
+  {
+   "t": 10986,
+   "delta": " one of you hurt the"
+  },
+  {
+   "t": 11032,
+   "delta": " other, or did you both"
+  },
+  {
+   "t": 11082,
+   "delta": " just st"
+  },
+  {
+   "t": 11132,
+   "delta": "op re"
+  },
+  {
+   "t": 11170,
+   "delta": "aching out?"
+  },
+  {
+   "t": 15411,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "planet",
+      "body": "Sun"
+     },
+     {
+      "kind": "planet",
+      "body": "Mercury"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 9246,
+   "slipsBefore": 1,
+   "to": 12563,
+   "ms": 3317
+  }
+ ],
+ "ghostScreenshot": "ghost-r2q3.png",
+ "final": {
+  "slips": [
+   "Your house of friends opens in Taurus, and I rule it: your Venus in Taurus in the tenth house. So friendships are my territory, and I judge them by whether they have held weight over the years, which gives me a bias toward keeping old things.",
+   "Your Sun and Mercury in Gemini sit in that house of friends, because for you a friendship lives on talk. When the talk thins, the whole bond feels like it's fading, even when it has only gone quiet.",
+   "Your Venus opposite Pluto can turn saving into gripping, because letting a bond change feels to me like losing it. Here saving it may mean letting it become smaller or different, and not trying to get back exactly what it was.",
+   "What happened between you: did one of you hurt the other, or did you both just stop reaching out?"
+  ],
+  "chips": [
+   "♀Venus",
+   "☉Sun",
+   "☿Mercury",
+   "Venus opposition Pluto"
+  ],
+  "mood": "candid",
+  "deeper": true,
+  "stopped": false
+ }
+}

@@ -1,0 +1,338 @@
+{
+ "request": {
+  "action": "chat",
+  "message": "Is this friendship worth saving?",
+  "lang": "en",
+  "birth": true,
+  "transcriptLen": 4
+ },
+ "frames": [
+  {
+   "t": 7310,
+   "delta": "I r"
+  },
+  {
+   "t": 7340,
+   "delta": "ule your eleventh house of"
+  },
+  {
+   "t": 7389,
+   "delta": " friends from where"
+  },
+  {
+   "t": 7441,
+   "delta": " I sit in"
+  },
+  {
+   "t": 7489,
+   "delta": " Taurus in your"
+  },
+  {
+   "t": 7541,
+   "delta": " tenth."
+  },
+  {
+   "t": 7590,
+   "delta": " That means I judge a friend"
+  },
+  {
+   "t": 7639,
+   "delta": " by whether they show up when"
+  },
+  {
+   "t": 7691,
+   "delta": " it coun"
+  },
+  {
+   "t": 7820,
+   "delta": "ts, and I hate"
+  },
+  {
+   "t": 7820,
+   "delta": " letting go of anything I've"
+  },
+  {
+   "t": 7843,
+   "delta": " put years"
+  },
+  {
+   "t": 7890,
+   "delta": " into,"
+  },
+  {
+   "t": 7945,
+   "delta": " so weigh my l"
+  },
+  {
+   "t": 7992,
+   "delta": "ean toward keeping it"
+  },
+  {
+   "t": 8043,
+   "delta": "."
+  },
+  {
+   "t": 8043,
+   "bubble": {
+    "index": 1
+   }
+  },
+  {
+   "t": 8043,
+   "delta": "My trine to"
+  },
+  {
+   "t": 8098,
+   "delta": " your Saturn is why"
+  },
+  {
+   "t": 8142,
+   "delta": " you"
+  },
+  {
+   "t": 8189,
+   "delta": " can m"
+  },
+  {
+   "t": 8241,
+   "delta": "end a friendship that's g"
+  },
+  {
+   "t": 8341,
+   "delta": "one slow or"
+  },
+  {
+   "t": 8344,
+   "delta": " ne"
+  },
+  {
+   "t": 8392,
+   "delta": "glected. If the only thing"
+  },
+  {
+   "t": 8444,
+   "delta": " wrong is"
+  },
+  {
+   "t": 8491,
+   "delta": " dist"
+  },
+  {
+   "t": 8540,
+   "delta": "ance and sil"
+  },
+  {
+   "t": 8591,
+   "delta": "ence, a ste"
+  },
+  {
+   "t": 8640,
+   "delta": "ady, rep"
+  },
+  {
+   "t": 8690,
+   "delta": "eated effort from you,"
+  },
+  {
+   "t": 8741,
+   "delta": " like a stand"
+  },
+  {
+   "t": 8867,
+   "delta": "ing call"
+  },
+  {
+   "t": 8868,
+   "delta": " or a reg"
+  },
+  {
+   "t": 8894,
+   "delta": "ular meal, is exactly"
+  },
+  {
+   "t": 8940,
+   "delta": " what you"
+  },
+  {
+   "t": 8991,
+   "delta": "'re built"
+  },
+  {
+   "t": 9042,
+   "delta": " for."
+  },
+  {
+   "t": 9043,
+   "bubble": {
+    "index": 2
+   }
+  },
+  {
+   "t": 9043,
+   "delta": "My opposition to"
+  },
+  {
+   "t": 9092,
+   "delta": " your Pluto is the part"
+  },
+  {
+   "t": 9139,
+   "delta": " that dec"
+  },
+  {
+   "t": 9190,
+   "delta": "ides this. If the friendship"
+  },
+  {
+   "t": 9240,
+   "delta": " is hurting"
+  },
+  {
+   "t": 9290,
+   "delta": " because one"
+  },
+  {
+   "t": 9395,
+   "delta": " of you ke"
+  },
+  {
+   "t": 9395,
+   "delta": "eps score"
+  },
+  {
+   "t": 9440,
+   "delta": " or wants to control the other,"
+  },
+  {
+   "t": 9491,
+   "delta": " then"
+  },
+  {
+   "t": 9540,
+   "delta": " patience only"
+  },
+  {
+   "t": 9591,
+   "delta": " keeps a"
+  },
+  {
+   "t": 9640,
+   "delta": " gr"
+  },
+  {
+   "t": 9690,
+   "delta": "ud"
+  },
+  {
+   "t": 9739,
+   "delta": "ge alive, and hol"
+  },
+  {
+   "t": 9791,
+   "delta": "ding on would be poss"
+  },
+  {
+   "t": 9917,
+   "delta": "ession, not lo"
+  },
+  {
+   "t": 9917,
+   "delta": "yalty."
+  },
+  {
+   "t": 9917,
+   "bubble": {
+    "index": 3
+   }
+  },
+  {
+   "t": 9918,
+   "delta": "Tell"
+  },
+  {
+   "t": 9940,
+   "delta": " me what act"
+  },
+  {
+   "t": 9990,
+   "delta": "ually broke between"
+  },
+  {
+   "t": 10041,
+   "delta": " you:"
+  },
+  {
+   "t": 10092,
+   "delta": " did one"
+  },
+  {
+   "t": 10138,
+   "delta": " of you dr"
+  },
+  {
+   "t": 10190,
+   "delta": "ift,"
+  },
+  {
+   "t": 10239,
+   "delta": " or did one of you bet"
+  },
+  {
+   "t": 10299,
+   "delta": "ray the"
+  },
+  {
+   "t": 10326,
+   "delta": " other?"
+  },
+  {
+   "t": 14508,
+   "done": {
+    "mood": "candid",
+    "chartRefs": [
+     {
+      "kind": "planet",
+      "body": "Venus"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "trine",
+      "bodyB": "Saturn"
+     },
+     {
+      "kind": "aspect",
+      "bodyA": "Venus",
+      "type": "opposition",
+      "bodyB": "Pluto"
+     }
+    ]
+   }
+  }
+ ],
+ "ghostEpisodes": [
+  {
+   "from": 8083,
+   "slipsBefore": 1,
+   "to": 11401,
+   "ms": 3318
+  }
+ ],
+ "ghostScreenshot": "ghost-r1q3.png",
+ "final": {
+  "slips": [
+   "I rule your eleventh house of friends from where I sit in Taurus in your tenth. That means I judge a friend by whether they show up when it counts, and I hate letting go of anything I've put years into, so weigh my lean toward keeping it.",
+   "My trine to your Saturn is why you can mend a friendship that's gone slow or neglected. If the only thing wrong is distance and silence, a steady, repeated effort from you, like a standing call or a regular meal, is exactly what you're built for.",
+   "My opposition to your Pluto is the part that decides this. If the friendship is hurting because one of you keeps score or wants to control the other, then patience only keeps a grudge alive, and holding on would be possession, not loyalty.",
+   "Tell me what actually broke between you: did one of you drift, or did one of you betray the other?"
+  ],
+  "chips": [
+   "♀Venus",
+   "Venus trine Saturn",
+   "Venus opposition Pluto"
+  ],
+  "mood": "candid",
+  "deeper": true,
+  "stopped": false
+ }
+}

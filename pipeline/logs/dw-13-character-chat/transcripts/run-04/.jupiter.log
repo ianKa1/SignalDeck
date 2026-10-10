@@ -1,0 +1,22 @@
+/Users/kaimao/miniconda3/envs/astrology/lib/python3.12/site-packages/fastapi/testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+  from starlette.testclient import TestClient as TestClient  # noqa
+2026-09-29 12:32:14,316 INFO astrace.jobs: job divination_voice: running divination_voice
+[jupiter] turn 1: 16.2s, 7 bubbles
+2026-09-29 12:34:03,972 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 2: 12.0s, 6 bubbles
+2026-09-29 12:34:29,510 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 3: 21.2s, 6 bubbles
+2026-09-29 12:34:44,338 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 4: 13.7s, 6 bubbles
+2026-09-29 12:35:02,595 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 5: 14.8s, 4 bubbles
+2026-09-29 12:35:24,422 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 6: 16.6s, 6 bubbles
+2026-09-29 12:35:42,821 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 7: 14.0s, 5 bubbles
+2026-09-29 12:35:55,955 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 8: 12.1s, 5 bubbles
+2026-09-29 12:36:11,194 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 9: 11.2s, 5 bubbles
+2026-09-29 12:36:26,049 INFO app.divination.turn: divination turn: sentence ceiling reached (12 sentences); rest of the reply dropped
+[jupiter] turn 10: 12.1s, 5 bubbles
