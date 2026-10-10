@@ -1,6 +1,0 @@
-# 13 final review — dw-12-google-sign-in
-- Built: forced Google sign-in for web-divination. A GIS button sends the ID token to POST /api/auth/google; accounts/google.py (the single google-auth importer) verifies it server-side; the user is upserted by email and gets the existing bearer pair (only sha256 hashes at rest, no `sub` stored). The web app installs the pair through core's AuthTokenProvider. AuthGate wraps every screen; sessions restore via whoami/refresh; sign-out revokes and returns to the gate. All auth routes are dormant (503) without DATABASE_URL or GOOGLE_CLIENT_ID.
-- Acceptance: 10-accepting.md (S1–S9, C1–C7, W1–W7, G1–G3, R1–R5 PASS on 0305c1c) + 12-accepting-u1.md (U1 live Google sign-in PASS: sign-in 200, 3 turns 200, logout 204 with the old rows deleted, re-sign-in, reload → whoami 200).
-- Deviations: W6's GIS locale is zh_CN (plan 03). W2 now seeds an active character (dw-8 picker; 09-merge.md). The 3e8e9cb merge of the dw-13 rework was verified by suites only, not by a separate checker.
-- Known limitations: running the whole server suite against live Postgres has pre-existing failures unrelated to dw-12 (08-accepting.md). The web app now needs DATABASE_URL to open at all.
-- Landed: 8da99b2 on feature/divination_web; worktree and branch removed; U1 servers and throwaway cluster stopped and deleted.

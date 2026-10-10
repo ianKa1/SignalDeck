@@ -1,6 +1,0 @@
-# 11 final review — dw-14-web-navigation
-- Built: an in-house History-API router (`web-divination/src/nav/`) with routes `/` (Home = the six-planet picker page), `/chat/<id>`, `/sessions` and `/sessions/<id>`, and not-found screens. Every signed-in screen has a masthead with the wordmark → home, "The six", "Sessions · n" and Sign out. The URL survives the Google gate. Every conversation is an open session record from its first entry (core `recordEntry`, `adoptTranscripts`). End seals the same id, a failed summary stays listed, and open records are never evicted. New guards G16 (browser history/location globals only in nav/history.ts) and G17 (no web appendEntry). One CLAUDE.md sentence added.
-- Acceptance: 10-accepting.md — PASS 28/28. G2 note: the one package.json key difference (`canvaskit-wasm`) comes from dw-15, merged in; dw-14 adds no dependency. Suites after landing on feature/divination_web: jest 1078, vitest 386, typecheck 0.
-- Deviations: SG1 `lastChange()`; `navigate()` owns the same-path refusal; seed dropping; two dw-8 tests re-expressed; steps 8–12 in one commit; cycle 1 (CSS). See the DECISIONS worker entry.
-- Known limitations: a prefill does not survive a reload (non-goal). The spotlight focus follows the URL persona.
-- Landed: 2e6cfe8 on feature/divination_web; worktree and branch removed.

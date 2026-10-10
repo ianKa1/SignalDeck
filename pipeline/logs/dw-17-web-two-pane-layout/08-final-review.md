@@ -1,5 +1,0 @@
-# 08 — final review (auto-finalization, 2026-09-29)
-- Built: equal wheel | chat panes on /chat/<id> (≥960 px, 100dvh shell, no page scroll); Placements (Big Three + rows) deleted; BirthCard = birth chip opening an anchored non-modal popover over the unchanged BirthForm, the form in the wheel's place when nothing is saved; <960 px chat-first stacking with button jumps (hidden without birth data); Home colophon uses the chip.
-- Deviations from spec: jump controls are buttons (review N1), no spotlight visibility gating (N2), jumps hidden without data, composer wraps <520 px, Home popover right-aligned, two-column rule scoped to `.layout--chat`.
-- Known limitations: the screen-reader-complete placements twin is gone (wheel label + pills remain); phone pane scrollbar overlays the chat plate edge; W4 vitest saves via the store (Save click covered by the real app).
-- Acceptance: PASS 14/14 (07-accepting.md). Landed cd44a2c on feature/divination_web; worktree removed, branch deleted. Landed BEFORE dw-16 (queue order is dw-16 first) because dw-16 is still implementing; dw-16 merges the working branch before its acceptance.

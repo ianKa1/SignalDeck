@@ -1,6 +1,0 @@
-# 12 final review — dw-15-wheel-spotlight
-- Built: The web wheel's lit aspects glow with core's `SPOTLIGHT_SKSL`, compiled unchanged by CanvasKit-WASM 0.41.0 on a canvas over the SVG wheel (lazy load; there is still one shader text). With a character picked, the wheel shows only its planet's aspect family: other lines are hidden and other planets dimmed. A "Show full chart" toggle switches views. Lit pills work outside the focus. Reduced motion or a CanvasKit failure falls back to static lit lines. Core gains `spotlightChord` and `spotlightUniformArray`, and native delegates to `spotlightChord`, which fixes the conjunction midpoint across 0° Aries. New guards G14 (one shader text) and G15 (one canvaskit importer). CLAUDE.md rule 1 amended.
-- Acceptance: 11-accepting.md — PASS 29/29 (suites: jest 1075, vitest 351, typecheck, server 1380/55 skipped; R1–R5 in headless Chrome).
-- Deviations: D-1…D-9 (DECISIONS entry "worker choices and deviations"). R1–R5 ran in headless Chrome over CDP rather than Claude-in-Chrome, and birth data was seeded rather than typed.
-- Known limitations: the 7.2 MB wasm asset (2.9 MB gzipped, lazy). skipLibCheck is on for web-divination. jsdom stage tests draw no beams (no ResizeObserver).
-- Landed: 8032e68 on feature/divination_web; worktree and branch removed.
